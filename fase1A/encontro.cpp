@@ -18,4 +18,6 @@ int main() {
     dias = final - inicio + 1;
 
     std::cout << ((dias < 0) ? 0 : dias);
+
+    return 0;
 }
